@@ -12,6 +12,7 @@ This program is terminal game which asks user to guess the word by guessing the 
 This program chooses an episode randomly from given directory.
 The directory structure is assumed to be as follows:
 
+```
 shows
   |___ show1
 	 |____ season 1
@@ -34,4 +35,5 @@ shows
                     |____ Episode 1
 		    |____ Episode 2
 
+```
 The dataset folder has the structure defined. I have included txt files for now as a reference.
