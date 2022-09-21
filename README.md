@@ -37,3 +37,10 @@ shows
 
 ```
 The dataset folder has the structure defined. I have included txt files for now as a reference.
+
+### 3. Download PDF file from a url provided:
+
+This program reads contents using request module and writes to a PDF file in chunks.
+A progress bar is also displayed to denote the download progress. tqdm module is used for this.
+
+For your reference, Downloaded file is stored in the Output folder.  
