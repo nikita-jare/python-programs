@@ -43,4 +43,20 @@ The dataset folder has the structure defined. I have included txt files for now 
 This program reads contents using request module and writes to a PDF file in chunks.
 A progress bar is also displayed to denote the download progress. tqdm module is used for this.
 
-For your reference, Downloaded file is stored in the Output folder.  
+For your reference, Downloaded file is stored in the Output folder. 
+
+### 4. Basic Chat application (Client-server):
+
+This is a basic application which enables sending and receiving messages on terminal.
+An IPV4 address socket is created and it is bound explicitly to local host.
+You can find the screenshot of output of this chat program.
+
+On one machine run server.py
+
+```python server.py```
+
+On another terminal/machine run client.py
+
+```python client.py```  
+
+These two programs will keep on running infinitely until close manually
