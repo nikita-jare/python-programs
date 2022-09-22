@@ -53,10 +53,14 @@ You can find the screenshot of output of this chat program.
 
 On one machine run server.py
 
-```python server.py```
+```
+python server.py
+```
 
 On another terminal/machine run client.py
 
-```python client.py```  
+```
+python client.py
+```  
 
 These two programs will keep on running infinitely until close manually
