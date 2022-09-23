@@ -73,3 +73,12 @@ If the profile picture is not set, or it is private, it returns a default pictur
 ```
 python3 facebook_graph_api.py
 ```
+
+### 5. Web Automation - Whatsapp and Instagram
+
+This program uses selenium webdriver and webdriver manager.
+
+Whatsapp : Open whatsapp web, seach for chat you want to send message, type a message and send.
+Instagram: Open instagram webpage, Enter username and password, search for user account, and like all the posts.
+
+Make sure to replace xpaths and classname appropriately.
