@@ -64,3 +64,12 @@ python client.py
 ```  
 
 These two programs will keep on running infinitely until close manually
+
+### 4. Facebook Graph API 
+
+Using request module, fetch profile pictures of facebook users using Facebook Graph API URL.
+If the profile picture is not set, or it is private, it returns a default picture.
+
+```
+python3 facebook_graph_api.py
+```
